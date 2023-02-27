@@ -1,2 +1,2 @@
 # chess-engine
-Chess engine (Aleksandr Maramzin)
+Chess engine
